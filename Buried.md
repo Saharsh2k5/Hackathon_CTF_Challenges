@@ -1,0 +1,1 @@
+Just used a pdf decoder and it gave the keywords which is the flag.

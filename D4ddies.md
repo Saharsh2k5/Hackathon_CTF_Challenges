@@ -1,0 +1,1 @@
+Just used a image decoder and it gave the text which is the flag.
